@@ -2,7 +2,7 @@
 
 ## Getting started
 
-### step1: $ npm create vite@latest
+### step1: $ npm create vite@latest =>  => Project name: › vite-project
 
 ### step2: $ yarn 
 
