@@ -1,7 +1,9 @@
 # vite-lit-web-components
 
-## $ npm create vite@latest
+### Getting started
 
-## $ yarn
+## step1: $ npm create vite@latest
 
-## $ yarn
+## step2: $ yarn
+
+## step3: $ yarn
